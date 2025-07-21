@@ -10,4 +10,4 @@ To run:
 
 ``pip install -r requirements.txt``
 
-``streamlit run streamlit.app.py``
+``streamlit run streamlit_app.py``
