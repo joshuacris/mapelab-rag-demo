@@ -4,8 +4,10 @@ A basic RAG demo for MAPELAB using LangChain, Chroma, Cohere, and Sentence-Trans
 
 To run:
 
-python -m venv ragdemo
-source ragdemo/bin/activate
-pip install -r requirements.txt
+``python -m venv ragdemo``
 
-streamlit run streamlit.app.py
+``source ragdemo/bin/activate``
+
+``pip install -r requirements.txt``
+
+``streamlit run streamlit.app.py``
